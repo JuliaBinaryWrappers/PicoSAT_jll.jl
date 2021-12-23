@@ -1,0 +1,127 @@
+[[PicoSAT]]
+arch = "aarch64"
+git-tree-sha1 = "9e669046dd4ac7a74fd952d060f3bfaea163e521"
+os = "macos"
+
+    [[PicoSAT.download]]
+    sha256 = "09c03b5d93235e57440d3ad41f5bb95fed70b561183b8c9d86d421c81b8bcfe6"
+    url = "https://github.com/JuliaBinaryWrappers/PicoSAT_jll.jl/releases/download/PicoSAT-v965.0.0+0/PicoSAT.v965.0.0.aarch64-apple-darwin.tar.gz"
+[[PicoSAT]]
+arch = "aarch64"
+git-tree-sha1 = "3fa804394d2b0f53998b0251b0289401591f466b"
+libc = "glibc"
+os = "linux"
+
+    [[PicoSAT.download]]
+    sha256 = "fff6622b0de4ccaa75cfcc7a1700735767cf62618abeb890d3e59c27f2c49cc3"
+    url = "https://github.com/JuliaBinaryWrappers/PicoSAT_jll.jl/releases/download/PicoSAT-v965.0.0+0/PicoSAT.v965.0.0.aarch64-linux-gnu.tar.gz"
+[[PicoSAT]]
+arch = "aarch64"
+git-tree-sha1 = "9c5a1227f53eb96511625fd29267ccbf8f7bb3d6"
+libc = "musl"
+os = "linux"
+
+    [[PicoSAT.download]]
+    sha256 = "fd016947aa7611da7c0e1a8d797afc462ff0ba1b04d5b172ac3b08fa0a677eab"
+    url = "https://github.com/JuliaBinaryWrappers/PicoSAT_jll.jl/releases/download/PicoSAT-v965.0.0+0/PicoSAT.v965.0.0.aarch64-linux-musl.tar.gz"
+[[PicoSAT]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "7b4f322d02c8fe90d8a93e0e4a19d0b9ecfb41bb"
+libc = "glibc"
+os = "linux"
+
+    [[PicoSAT.download]]
+    sha256 = "9790cff3f321141c6c0df0ade5b2942c4fa390634fa9d76509bb5b89b9d38ab2"
+    url = "https://github.com/JuliaBinaryWrappers/PicoSAT_jll.jl/releases/download/PicoSAT-v965.0.0+0/PicoSAT.v965.0.0.armv6l-linux-gnueabihf.tar.gz"
+[[PicoSAT]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "3dc7b83ff31ce26540996962fa24689bf4382819"
+libc = "musl"
+os = "linux"
+
+    [[PicoSAT.download]]
+    sha256 = "043554320f9968bcab11da730f1371193fc480a6883c9f7e97062e18427bfed9"
+    url = "https://github.com/JuliaBinaryWrappers/PicoSAT_jll.jl/releases/download/PicoSAT-v965.0.0+0/PicoSAT.v965.0.0.armv6l-linux-musleabihf.tar.gz"
+[[PicoSAT]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "44657bf83f706bb8c3dc78468c5052b36a37e39f"
+libc = "glibc"
+os = "linux"
+
+    [[PicoSAT.download]]
+    sha256 = "dae1cd141fea6b3a6d01148bfc605e5029f6e587a3c07759eb1c293cc52534ac"
+    url = "https://github.com/JuliaBinaryWrappers/PicoSAT_jll.jl/releases/download/PicoSAT-v965.0.0+0/PicoSAT.v965.0.0.armv7l-linux-gnueabihf.tar.gz"
+[[PicoSAT]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "69dc1d4737c8802def6ef5d8961178ef864d7920"
+libc = "musl"
+os = "linux"
+
+    [[PicoSAT.download]]
+    sha256 = "e3c94161d15a1a7c1c1d817538f6322085f7262811b7cf95eb9b1f896e69f6b0"
+    url = "https://github.com/JuliaBinaryWrappers/PicoSAT_jll.jl/releases/download/PicoSAT-v965.0.0+0/PicoSAT.v965.0.0.armv7l-linux-musleabihf.tar.gz"
+[[PicoSAT]]
+arch = "i686"
+git-tree-sha1 = "908c795e7404673ddabb62ca522ac711bb37dd0a"
+libc = "glibc"
+os = "linux"
+
+    [[PicoSAT.download]]
+    sha256 = "0a3b870bce3b37bf83150489f11dfb8a01c568c8532ff930bdcf476148c5c3a1"
+    url = "https://github.com/JuliaBinaryWrappers/PicoSAT_jll.jl/releases/download/PicoSAT-v965.0.0+0/PicoSAT.v965.0.0.i686-linux-gnu.tar.gz"
+[[PicoSAT]]
+arch = "i686"
+git-tree-sha1 = "dc75d9426f050902c3660a1508d500b7c231ff1f"
+libc = "musl"
+os = "linux"
+
+    [[PicoSAT.download]]
+    sha256 = "1489e80d5ff1507410d36af4dc16839b149e96f217c2355e693712bfccc09553"
+    url = "https://github.com/JuliaBinaryWrappers/PicoSAT_jll.jl/releases/download/PicoSAT-v965.0.0+0/PicoSAT.v965.0.0.i686-linux-musl.tar.gz"
+[[PicoSAT]]
+arch = "powerpc64le"
+git-tree-sha1 = "e92c5d906e5279ebca5b783137d6c740ff65dc9d"
+libc = "glibc"
+os = "linux"
+
+    [[PicoSAT.download]]
+    sha256 = "0e9049dc7297d2234b2b0c696221fd58ba87828fc71c2169f7e761420ace83b3"
+    url = "https://github.com/JuliaBinaryWrappers/PicoSAT_jll.jl/releases/download/PicoSAT-v965.0.0+0/PicoSAT.v965.0.0.powerpc64le-linux-gnu.tar.gz"
+[[PicoSAT]]
+arch = "x86_64"
+git-tree-sha1 = "e9430c8224f82e3b2129f1d908dfdbbd64a40523"
+os = "macos"
+
+    [[PicoSAT.download]]
+    sha256 = "054145e5865fb829905743084e0a30fbf2f3cede25c5176727ee1f6c690742c3"
+    url = "https://github.com/JuliaBinaryWrappers/PicoSAT_jll.jl/releases/download/PicoSAT-v965.0.0+0/PicoSAT.v965.0.0.x86_64-apple-darwin.tar.gz"
+[[PicoSAT]]
+arch = "x86_64"
+git-tree-sha1 = "b3c756bb3d9b9fa0d66950b2375378a01af6cc2d"
+libc = "glibc"
+os = "linux"
+
+    [[PicoSAT.download]]
+    sha256 = "7bc6c26a1b9b5ca9c48698f4e7381d8ee2b40a35a0b15647a9a64439b44e83d5"
+    url = "https://github.com/JuliaBinaryWrappers/PicoSAT_jll.jl/releases/download/PicoSAT-v965.0.0+0/PicoSAT.v965.0.0.x86_64-linux-gnu.tar.gz"
+[[PicoSAT]]
+arch = "x86_64"
+git-tree-sha1 = "6a7f136cd670ba5151d812123d592b09329f6592"
+libc = "musl"
+os = "linux"
+
+    [[PicoSAT.download]]
+    sha256 = "93b8f376cbf472c07c8f469af50be03ac39be6cc4d85ac4b5d3a5c6594ddd3c3"
+    url = "https://github.com/JuliaBinaryWrappers/PicoSAT_jll.jl/releases/download/PicoSAT-v965.0.0+0/PicoSAT.v965.0.0.x86_64-linux-musl.tar.gz"
+[[PicoSAT]]
+arch = "x86_64"
+git-tree-sha1 = "9cd73e4452d8d9ca21aee506389c835d9390c8a1"
+os = "freebsd"
+
+    [[PicoSAT.download]]
+    sha256 = "d7f32ebb79eb4c657d76c7f66ed9e0a8623252c24bbb1b6a793938193fcd9700"
+    url = "https://github.com/JuliaBinaryWrappers/PicoSAT_jll.jl/releases/download/PicoSAT-v965.0.0+0/PicoSAT.v965.0.0.x86_64-unknown-freebsd.tar.gz"
